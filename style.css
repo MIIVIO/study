@@ -1,14 +1,18 @@
 /*Selector {
 	property: value;
 }*/
+
+* {
+	text-align: center ;
+}
 body{
 	background-color: #5BB9B9;
 	background-size: cover;
 }
 
-h2 {
+h2 > p {
 	color: red;
-	text-align: center;
+	text-align: right;
 	border: 5px dashed rgb(255, 176, 170);
 	cursor: pointer;
 }
@@ -24,4 +28,16 @@ li {
 
 a {
 	text-decoration: none;
+}
+
+.webtext {
+	border: 5px dashed green;
+}
+
+#div1 {
+	background: rgba(0, 0, 255, 0.2);
+}
+
+#div2 {
+	background: rgba(255, 0, 0, 0.2);
 }
