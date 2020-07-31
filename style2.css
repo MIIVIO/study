@@ -1,3 +1,20 @@
+/*body {
+	background-image: url(space_stars.jpg);
+}*/
+
 h2 {
 	color: blue;
+}
+
+p {
+	text-decoration: underline;
+	text-transform: uppercase;
+	text-align: center;
+	color: #AA4139;
+	border: 5px solid rgb(200, 50, 70);
+	line-height: 70px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 85%;
+	font-family: 'Krona One', sans-serif;
 }
