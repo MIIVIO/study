@@ -12,9 +12,18 @@ p {
 	text-align: center;
 	color: #AA4139;
 	border: 5px solid rgb(200, 50, 70);
-	line-height: 70px;
+	line-height: 7px;
 	font-style: italic;
 	font-weight: bold;
 	font-size: 85%;
 	font-family: 'Krona One', sans-serif;
+}
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
 }
